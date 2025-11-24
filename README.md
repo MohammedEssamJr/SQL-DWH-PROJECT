@@ -100,6 +100,7 @@ practices:
     │
     ├── docs/                               # Project documentation and architecture details
     │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+    │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
     │
     ├── scripts/                            # SQL scripts for ETL and transformations
     │   ├── bronze/                         # Scripts for extracting and loading raw data into Bronze layer
