@@ -1,9 +1,9 @@
 # 📦 Data Warehouse & Analytics Project
 
-Welcome to the **Data Warehouse & Analytics** project! 🚀\
+Welcome to the **Data Warehouse & Analytics** project! 🚀
 This repository showcases a complete end-to-end data engineering and
 analytics solution --- from ingesting raw data all the way to producing
-actionable insights and analytical dashboards.\
+actionable insights and analytical dashboards.
 It's designed as a portfolio-ready project that demonstrates industry
 best practices.
 
@@ -18,17 +18,17 @@ Bronze, Silver, and Gold layers:
 
 ### **1. Bronze Layer**
 
--   Stores raw, unprocessed data ingested directly from source systems.\
+-   Stores raw, unprocessed data ingested directly from source systems.
 -   Data is imported from CSV files into SQL Server.
 
 ### **2. Silver Layer**
 
--   Performs data cleaning, standardization, and normalization.\
+-   Performs data cleaning, standardization, and normalization.
 -   Ensures data quality before it moves into analytical modeling.
 
 ### **3. Gold Layer**
 
--   Contains business-ready, analytics-optimized tables.\
+-   Contains business-ready, analytics-optimized tables.
 -   Structured using a **Star Schema** for efficient BI reporting.
 
 ------------------------------------------------------------------------
@@ -61,11 +61,11 @@ decision-making.
 
 This repository is ideal for showcasing expertise in:
 
--   SQL Development\
--   Data Engineering\
--   ETL / ELT Pipeline Design\
--   Data Modeling\
--   Data Architecture\
+-   SQL Development
+-   Data Engineering
+-   ETL / ELT Pipeline Design
+-   Data Modeling
+-   Data Architecture
 -   Analytics & Reporting
 
 ------------------------------------------------------------------------
@@ -79,11 +79,11 @@ sales data and support analytics.
 
 ### **Specifications**
 
--   **Data Sources:** Two CSV datasets (ERP & CRM).\
+-   **Data Sources:** Two CSV datasets (ERP & CRM).
 -   **Data Quality:** Clean and standardize inconsistent records before
-    analysis.\
--   **Integration:** Merge sources into a unified analytical model.\
--   **Scope:** Focus on latest data; historization not required.\
+    analysis.
+-   **Integration:** Merge sources into a unified analytical model.
+-   **Scope:** Focus on latest data; historization not required.
 -   **Documentation:** Deliver clear diagrams and explanations for
     business and technical teams.
 
