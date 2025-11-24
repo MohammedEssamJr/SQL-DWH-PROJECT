@@ -9,7 +9,7 @@ It’s designed as a portfolio-ready project that demonstrates industry best pra
 ## 🏗️ Data Architecture
 
 This project follows the **Medallion Architecture** consisting of Bronze, Silver, and Gold layers:
-![Data Architecture](./docs/data-architecture.png)
+![Data Architecture](./docs/data_architecture.png)
 ### **1. Bronze Layer**
 - Stores raw, unprocessed data ingested directly from source systems.  
 - Data is imported from CSV files into SQL Server.
